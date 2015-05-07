@@ -1,0 +1,26 @@
+{
+  "name": "miniservice",
+  "version": "0.5.0",
+  "description": "building an api that returns json data has never been so easy",
+  "main": "MiniService.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zackify/MiniService.git"
+  },
+  "keywords": [
+    "microservice",
+    "api",
+    "json",
+    "auth",
+    "microframework"
+  ],
+  "author": "Zach Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zackify/MiniService/issues"
+  },
+  "homepage": "https://github.com/zackify/MiniService#readme"
+}
