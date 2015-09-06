@@ -1,8 +1,6 @@
 ##MiniService
 
-After being stuck with express.js and all of its annoying middleware, 
-I decided to make something super small for building out little apis.
-The end goal is to at least have some built in authentication stuff and database integration.
+Just a little project i made to help myself understand how express / Koa works.
 
 ### Installing MiniService
 
